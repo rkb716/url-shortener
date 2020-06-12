@@ -1,5 +1,5 @@
 {
-	"name": "URL Shortener Microservice",
+	"name": "url-shortener-microservice",
 	"version": "0.0.2",
 	"description": "A microservice for shortening urls",
 	"main": "server.js",
@@ -14,7 +14,7 @@
 		"body-parser": "^1.19.0"
 	},
 	"engines": {
-		"node": "10.17.0"
+		"node": "12.8.0"
 	},
 	"keywords": [
 		"node",
